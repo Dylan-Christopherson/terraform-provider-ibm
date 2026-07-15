@@ -3,7 +3,7 @@ layout: "ibm"
 page_title: "IBM : ibm_sds_volume"
 description: |-
   Manages sds_volume.
-subcategory: "Ceph as a Service"
+subcategory: "Fusion as a Service"
 ---
 
 # ibm_sds_volume

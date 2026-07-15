@@ -2,7 +2,7 @@ Activity Tracker Event Routing
 App ID Management
 App Configuration
 Catalog Management
-Ceph as a Service
+Fusion as a Service
 Classic infrastructure
 Cloud Database
 Cloud Foundry
